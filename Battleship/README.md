@@ -1,4 +1,4 @@
-# PSD Case Study BattleShip
+# APS-SD Case Study BattleShip
 In this folder you'll finde the latest versions of the BattleShip Case Study:
 Right now these versions are available:
 
